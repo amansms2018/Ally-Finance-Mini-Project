@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dce91e81-e39c-4210-a66f-722ac4ac241b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/allyfinance/auction/BiddingAndActionMiniProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/allyfinance/auction/BiddingAndActionMiniProjectApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cXk22MGhW3CS9brDpYA1XEjiGV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DTO" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.34835166" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/DTO" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.allyfinance.auction.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.allyfinance.auction.contoller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BiddingAndActionMiniApplication (1)">
+    <configuration name="BiddingAndActionMiniApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BiddingAndActionMiniApplication" />
+      <module name="auction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiddingAndActionMiniApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allyfinance.auction.contoller.BiddingAndActionMiniApplication" />
+      <module name="auction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiddingAndActionMiniProjectApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.allyfinance.auction" />
+      <option name="MAIN_CLASS_NAME" value="com.allyfinance.auction.BiddingAndActionMiniProjectApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiddingAndActionMiniProjectApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.allyfinance.auction" />
+      <option name="MAIN_CLASS_NAME" value="com.allyfinance.auction.BiddingAndActionMiniProjectApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BiddingAndActionMiniApplication (1)" />
+        <item itemvalue="Application.BiddingAndActionMiniApplication" />
+        <item itemvalue="JUnit.BiddingAndActionMiniProjectApplicationTests" />
+        <item itemvalue="JUnit.BiddingAndActionMiniProjectApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dce91e81-e39c-4210-a66f-722ac4ac241b" name="Default Changelist" comment="" />
+      <created>1590682114632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590682114632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="331" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590718638089">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="440" y="331" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.800@0.0.1280.800" timestamp="1590718638089" />
+    <state x="391" y="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590712698004">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="391" y="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.800@0.0.1280.800" timestamp="1590712698004" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590697529694">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1590697529694" />
+    <state x="369" y="163" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.777@0.23.1280.777" timestamp="1590682404532" />
+    <state x="378" y="154" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590693179820">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.800@0.0.1280.800" timestamp="1590693179820" />
+    <state x="386" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590706786389">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="386" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1590706786388" />
+    <state width="1238" height="264" key="GridCell.Tab.0.bottom" timestamp="1590724589896">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590719229185" />
+    <state width="1238" height="217" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1590689576573" />
+    <state width="1238" height="264" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724589896" />
+    <state width="1238" height="264" key="GridCell.Tab.0.center" timestamp="1590724589894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1590719229183" />
+    <state width="1238" height="217" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1590689576571" />
+    <state width="1238" height="264" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724589894" />
+    <state width="1238" height="264" key="GridCell.Tab.0.left" timestamp="1590724589893">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1590719229182" />
+    <state width="1238" height="217" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1590689576570" />
+    <state width="1238" height="264" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724589893" />
+    <state width="1238" height="264" key="GridCell.Tab.0.right" timestamp="1590724589895">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1590719229184" />
+    <state width="1238" height="217" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1590689576572" />
+    <state width="1238" height="264" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724589895" />
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1590724589900">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590718686906" />
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724589900" />
+    <state width="1238" height="264" key="GridCell.Tab.1.center" timestamp="1590724589898">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1590718686904" />
+    <state width="1238" height="264" key="GridCell.Tab.1.center/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724589898" />
+    <state width="1238" height="264" key="GridCell.Tab.1.left" timestamp="1590724589897">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1590718686903" />
+    <state width="1238" height="264" key="GridCell.Tab.1.left/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724589897" />
+    <state width="1238" height="264" key="GridCell.Tab.1.right" timestamp="1590724589899">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1590718686905" />
+    <state width="1238" height="264" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724589899" />
+    <state x="228" y="150" key="IDE.errors.dialog" timestamp="1590697630503">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="150" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1590697630503" />
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog" timestamp="1590692378795">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="178" y="62" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1590692378795" />
+    <state x="208" y="31" width="1232" height="837" key="SettingsEditor" timestamp="1590724586602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" width="1232" height="837" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900/67.1080.1920.1080@0.0.1440.900" timestamp="1590724586602" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auction$BiddingAndActionMiniProjectApplicationTests.ic" NAME="BiddingAndActionMiniProjectApplicationTests Coverage Results" MODIFIED="1590706927746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.allyfinance.auction.*</FILTER>
+    </SUITE>
+  </component>
+</project>
